@@ -42,8 +42,12 @@
 3. `termux-setup-storage`
 4. `git clone https://github.com/artcasds/alat-enkripsi`
 
-cara melihat file yang telah di enkripsi,
-file/tols yang sudah di enkripsi masuk ke 
-folder dowload, misal yang kamu enkripsi 
-test.py setelah di enkripsi menjadi 
-enc_test.py 
+🔥CARA MENGGUNAKAN↓↓
+
+`file/tols yang kamu mau encrypt harus `berada di folder
+`alat-enkripsi, untuk cara memindahkan 
+`file/tols yang mau di encrypt dengan cara
+`mv ~/nama file .py ~/alat-enkripsi/ 
+`untuk cara cek setelah file di pindahakan
+`ke folder alat-enkripsi adalah dengan `mengetik ls 
+
