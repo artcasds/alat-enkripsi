@@ -3,11 +3,12 @@
 </p>
 # Tols-untuk-menghindari-maling-brengsek
 
-🛠️ panduan cara install!
-1.pkg update && pkg upgrade -y
-2.pkg install git python -y
-3.termux-setup-storage
-4.git clone https://github.com/artcasds/alat-enkripsi
+🛠️ Panduan cara install:↓↓↓
+
+1. `pkg update && pkg upgrade -y`
+2. `pkg install git python -y`
+3. `termux-setup-storage`
+4. `git clone https://github.com/artcasds/alat-enkripsi`
 
 cara melihat file yang telah di enkripsi,
 file/tols yang sudah di enkripsi masuk ke 
