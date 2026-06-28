@@ -23,7 +23,7 @@
 ### 🕯️ Fitur Kegelapan
 
 
-| :--- | :--- |
+|:---| :--- |
 | 🐍 | **[01] Encrypt Base64 zlib** — Python |
 | 📦 | **[02] Encrypt Marshal** — Python |
 | 🔓 | **[03] Decrypt Base64 zlib** — Python |
