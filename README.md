@@ -41,7 +41,7 @@
 file/tols yang kamu mau encrypt harus berada di folder
 alat-enkripsi, untuk cara memindahkan 
 file/tols yang mau di encrypt dengan cara
-mv ~/nama file.py ~/alat-enkripsi/, untuk cara cek setelah file di pindahakan ke folder alat-enkripsi adalah dengan mengetik ls
+mv ~/nama file.py ~/alat-enkripsi/, untuk cara cek setelah file di pindahakan ke folder alat-enkripsi adalah dengan mengetik ls.file yang telah di encrypt menjadi, contoh main.py menjadi enc_main.py
 
 ### 🛠️ INSTALLASI
  ```bash  
