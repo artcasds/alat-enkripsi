@@ -46,7 +46,11 @@ mv ~/nama file.py ~/alat-enkripsi/, untuk cara cek setelah file di pindahakan ke
 
 ### 🛠️ INSTALLASI
  ```bash
-pkg update && pkg upgrade -y
-pkg install git python -y
+pkg update && pkg upgrade
+pkg install python
+pip install requests
+git clone [https://github.com/pikxyz
+/SpamOtp](https://github.com/pikxyz/SpamOtp)
 termux-setup-storage
-git clone https://github.com/artcasds/alat-enkripsi
+cd alat-enkripsi
+
