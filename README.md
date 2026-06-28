@@ -35,14 +35,14 @@
 
 ---
 
-#🛠️ INSTALLASI
-
+###🛠️ INSTALLASI
+```bash
 1. `pkg update && pkg upgrade -y`
 2. `pkg install git python -y`
 3. `termux-setup-storage`
 4. `git clone https://github.com/artcasds/alat-enkripsi`
 
-#🔥CARA MENGGUNAKAN↓↓
+###🔥CARA MENGGUNAKAN↓↓
 
 `file/tols yang kamu mau encrypt harus `berada di folder
 `alat-enkripsi, untuk cara memindahkan 
