@@ -1,7 +1,39 @@
 <p align="center">
   <img src="tampilan.jpg" alt="Tampilan" width="600">
 </p>
-# Tols-untuk-menghindari-maling-brengsek
+ 
+<div align="center">
+
+# 🔐 ENCRYPT TOOLS
+"Amankan kode kamu dengan sekali klik."
+
+![Platform](https://img.shields.io/badge/PLATFORM-PYTHON-blue) ![Status](https://img.shields.io/badge/VERSION-1.0-green)
+
+---
+
+### 🛡️ Apa Itu ENCRYPT TOOLS?
+**Encrypt Tools** adalah alat bantu yang dikembangkan oleh **YOGSSS** untuk membantu proses enkripsi dan obfuscation pada berbagai bahasa pemrograman.
+
+> **[INFO]** DONT USE TOOLS FOR ENC MALICIOUS TOOLS
+
+---
+
+### 🕯️ Fitur Kegelapan
+
+| Ikon | Deskripsi |
+| :--- | :--- |
+| 🐍 | **[01] Encrypt Base64 zlib** — Python |
+| 📦 | **[02] Encrypt Marshal** — Python |
+| 🔓 | **[03] Decrypt Base64 zlib** — Python |
+| 🛠️ | **[04] Enc Marshal Include** — Python |
+| 📜 | **[05] Javascript Encrypt** — Javascript |
+| 🐚 | **[06] Bash Encrypt** — Bash only |
+| 🔀 | **[07] XOR Encrypt** — Python only |
+| 🌐 | **[08] HTML Encode** |
+| 👁️ | **[09] Obfuscate Eye** |
+| ❌ | **[10] EXIT** |
+
+---
 
 🛠️ Panduan cara install:↓↓↓
 
