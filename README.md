@@ -14,16 +14,16 @@
 </div>
 
 ### 🛡️ Apa Itu ENCRYPT TOOLS?
-**Encrypt Tools** adalah alat  untuk membantu proses enkripsi dan obfuscation pada berbagai bahasa pemrograman yang di kembangkan oleh**YOGSSS**
+**Encrypt Tools** adalah alat  untuk membantu proses enkripsi dan obfuscation pada berbagai bahasa pemrograman yang di kembangkan oleh **YOGSSS**
 
 > **[INFO]** DONT USE TOOLS FOR ENC MALICIOUS TOOLS
 
 ---
 
-### 🕯️ Fitur Kegelapan
+# 🕯️ FITUR KEGELAPAN
 
-
-|:---| :--- |
+| | |
+| :--- | :--- |
 | 🐍 | **[01] Encrypt Base64 zlib** — Python |
 | 📦 | **[02] Encrypt Marshal** — Python |
 | 🔓 | **[03] Decrypt Base64 zlib** — Python |
@@ -34,6 +34,7 @@
 | 🌐 | **[08] HTML Encode** |
 | 👁️ | **[09] Obfuscate Eye** |
 | ❌ | **[10] EXIT** |
+
 
 ---
 # 🔥 cara menggunakan
