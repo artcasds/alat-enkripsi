@@ -45,8 +45,8 @@ file/tols yang mau di encrypt dengan cara
 mv ~/nama file.py ~/alat-enkripsi/, untuk cara cek setelah file di pindahakan ke folder alat-enkripsi adalah dengan mengetik ls.file yang telah di encrypt menjadi, contoh main.py menjadi enc_main.py
 
 ### 🛠️ INSTALLASI
- ```bash  
-1. pkg update && pkg upgrade -y
-2. pkg install git python -y
-3. termux-setup-storage
-4. git clone https://github.com/artcasds/alat-enkripsi
+ ```bash
+pkg update && pkg upgrade -y
+pkg install git python -y
+termux-setup-storage
+git clone https://github.com/artcasds/alat-enkripsi
