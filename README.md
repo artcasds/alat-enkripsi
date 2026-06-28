@@ -46,6 +46,7 @@ mv ~/nama file.py ~/alat-enkripsi/, untuk cara cek setelah file di pindahakan ke
 
 ### 🛠️ INSTALLASI
  ```bash
+# INSTALLASI (COPY PASTE SEMUA)
 pkg update && pkg upgrade -y
 pkg install git python -y
 termux-setup-storage
