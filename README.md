@@ -34,7 +34,7 @@
 | ❌ | **[10] EXIT** |
 
 ---
-### 🔥cara menggunakan
+# 🔥 cara menggunakan
 
 file/tols yang kamu mau encrypt harus berada di folder
 alat-enkripsi, untuk cara memindahkan 
