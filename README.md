@@ -7,9 +7,11 @@
 # 🔐 ENCRYPT TOOLS
 "Amankan kode kamu dengan sekali klik."
 
-![Platform](https://img.shields.io/badge/PLATFORM-PYTHON-blue) ![Status](https://img.shields.io/badge/VERSION-1.0-green)
+<div align="center">
 
----
+![Platform](https://img.shields.io/badge/PLATFORM-PYTHON-blue)![Version](https://img.shields.io/badge/VERSION-1.0-green)![Termux](https://img.shields.io/badge/PLATFORM-TERMUX-blue?logo=android)
+
+</div>
 
 ### 🛡️ Apa Itu ENCRYPT TOOLS?
 **Encrypt Tools** adalah alat bantu yang dikembangkan oleh **YOGSSS** untuk membantu proses enkripsi dan obfuscation pada berbagai bahasa pemrograman.
@@ -47,8 +49,3 @@ mv ~/nama file.py ~/alat-enkripsi/, untuk cara cek setelah file di pindahakan ke
 2. `pkg install git python -y`
 3. `termux-setup-storage`
 4. `git clone https://github.com/artcasds/alat-enkripsi`
-
-
-
- 
-
