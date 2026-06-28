@@ -14,7 +14,7 @@
 </div>
 
 ### 🛡️ Apa Itu ENCRYPT TOOLS?
-**Encrypt Tools** adalah alat bantu yang dikembangkan oleh **YOGSSS** untuk membantu proses enkripsi dan obfuscation pada berbagai bahasa pemrograman.
+**Encrypt Tools** adalah alat  untuk membantu proses enkripsi dan obfuscation pada berbagai bahasa pemrograman yang di kembangkan oleh**YOGSSS**
 
 > **[INFO]** DONT USE TOOLS FOR ENC MALICIOUS TOOLS
 
